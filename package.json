@@ -1,8 +1,17 @@
 {
   "name": "webflow-code-editor",
-  "displayName": "webflow-code-editor",
+  "displayName": "Webflow Code Editor",
   "publisher":"raymondcamden",
   "description": "Lets you edit custom code for Webflow sites in VSC",
+  "icon": "media/webflow-code-editor-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Webflow-Examples/webflow-code-editor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Webflow-Examples/webflow-code-editor/issues"
+  },
+  "homepage": "https://github.com/Webflow-Examples/webflow-code-editor#readme",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.109.0"
