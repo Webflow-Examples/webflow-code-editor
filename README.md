@@ -19,10 +19,5 @@ Must have a Webflow account and published site.
 
 At this time you can't edit code blocks *inside* pages. That will come later.
 
-## Release Notes
-
-| Date | Change |
-| ---- | ----- |
-| May 21, 2026 | Initial release |
 
 
